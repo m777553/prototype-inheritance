@@ -1,3 +1,5 @@
+//Апробация работоспособности программы. Создание нового заказа newOrder и проверка функций на нём
+
 var Order = require("./order").Order,
     Hamburger = require("./Hamburger").Hamburger,
     Drink = require("./Drink").Drink,
